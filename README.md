@@ -1,1 +1,1 @@
-# Stats-Previes-Component-Card
+# Stats-Preview-Component-Card
